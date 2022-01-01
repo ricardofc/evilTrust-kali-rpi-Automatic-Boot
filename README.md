@@ -84,7 +84,7 @@
        # reboot
      ```
 
-## URLs de interés  
+## URLs de interese 
 * [1] https://wireless.wiki.kernel.org/en/users/documentation/hostapd#details_of_nl80211
 * [2] https://www.kali.org/get-kali/#kali-arm
 * [3] https://raw.githubusercontent.com/ricardofc/repoEDU-CCbySA/main/SI/Taller-SI-Practica-5.pdf
